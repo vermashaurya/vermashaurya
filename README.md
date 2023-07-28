@@ -1,5 +1,10 @@
 # Hi there 👋
-🔭 I’m actively working on Algorithms <br>🤝 I’m looking for help with Software Engineering Internships<br>🌱 I’m currently learning JS <br>⚡ Fun fact, I'm a technology enthusiast. I'll get excited about any tech stack.
+<ul>
+  <li>🔭 I’m actively working on Algorithms</li>
+  <li>🤝 I’m looking for help with Software Engineering Internships</li>
+  <li>🌱 I’m currently learning JS</li>
+  <li>⚡ Fun fact, I'm a technology enthusiast. I'll get excited about any tech stack.</li>
+</ul>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/verma-shaurya) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vermashaurya) 
 
