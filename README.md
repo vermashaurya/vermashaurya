@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://tenor.com/bgqGI.gif">
-</p>
+<h1>Hi there 👋 <img src="https://i.pinimg.com/originals/e6/20/83/e62083244f28ed2024a09ac52db6bceb.gif" width="150px" height="150px"></h1>
 
-# Hi there 👋
 <ul>
   <li>🔭 I’m actively working on Algorithms</li>
   <li>🤝 I’m looking for help with Software Engineering Internships</li>
@@ -23,7 +20,7 @@
 ![Top Contributed Repositories](https://api.githubtrends.io/user/svg/vermashaurya/repos?time_range=one_year&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9ab0115-39ab-47b2-8aad-6371ec7e6be2/d53evqr-10649a4b-f1bd-4ede-b1a6-2c2178dbdb80.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5YWIwMTE1LTM5YWItNDdiMi04YWFkLTYzNzFlYzdlNmJlMlwvZDUzZXZxci0xMDY0OWE0Yi1mMWJkLTRlZGUtYjFhNi0yYzIxNzhkYmRiODAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wtyS17Z2ocqmJeUgj_fUXJ93nMvC-ZqWxcFB25LakdY)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
