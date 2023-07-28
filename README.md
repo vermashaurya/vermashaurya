@@ -19,8 +19,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vermashaurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-#Github data:
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/vermashaurya/langs)](https://githubtrends.io)
+#Github data
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/vermashaurya/langs)]([https://githubtrends.io](https://api.githubtrends.io/user/svg/vermashaurya/repos?time_range=one_year&theme=dark))
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
