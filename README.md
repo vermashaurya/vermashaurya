@@ -15,10 +15,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vermashaurya&theme=merko) <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vermashaurya&theme=merko) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vermashaurya&theme=merko&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🔝 Top Contributed Repositories:
 ![Top Contributed Repositories](https://api.githubtrends.io/user/svg/vermashaurya/repos?time_range=one_year&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vermashaurya&theme=merko)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
