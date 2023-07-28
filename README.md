@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vermashaurya&theme=merko) <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vermashaurya&theme=merko) 
-![](https://github-readme-stats.vercel.app/api?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false) <br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vermashaurya&theme=merko&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
