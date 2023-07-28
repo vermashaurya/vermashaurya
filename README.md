@@ -13,8 +13,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vermashaurya&theme=merko)  <br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vermashaurya&theme=merko) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vermashaurya&theme=merko)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vermashaurya&theme=merko&hide_border=false) <br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vermashaurya&theme=merko) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vermashaurya&theme=merko) <br/>
 
 # 🔝 Top Contributed Repositories:
 ![Top Contributed Repositories](https://api.githubtrends.io/user/svg/vermashaurya/repos?time_range=one_year&theme=dark)
