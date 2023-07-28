@@ -16,10 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vermashaurya&theme=merko&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vermashaurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-# Github data
+# 🔝 Top Contributed Repositories
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/vermashaurya/repos?time_range=one_year&theme=dark)
 <!--
 - 🔭 I’m currently working on ...
