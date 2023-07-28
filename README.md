@@ -1,6 +1,8 @@
 <h1 align="up">Hi there 👋 </h1>
 <!-- <img src="https://cliply.co/wp-content/uploads/2021/09/142109670_SAD_CAT_400.gif" height="150px" width="150px"> -->
+<p align="center">
 <img src="https://i.pinimg.com/originals/e6/20/83/e62083244f28ed2024a09ac52db6bceb.gif" width="150px" height="150px">
+</p>
 
 <ul>
   <li>🔭 I’m actively working on Algorithms</li>
