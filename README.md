@@ -1,4 +1,6 @@
-<h1>Hi there 👋 <img src="https://i.pinimg.com/originals/e6/20/83/e62083244f28ed2024a09ac52db6bceb.gif" width="150px" height="150px"></h1>
+<h1 align="up">Hi there 👋 </h1>
+<!-- <img src="https://cliply.co/wp-content/uploads/2021/09/142109670_SAD_CAT_400.gif" height="150px" width="150px"> -->
+<img src="https://i.pinimg.com/originals/e6/20/83/e62083244f28ed2024a09ac52db6bceb.gif" width="150px" height="150px">
 
 <ul>
   <li>🔭 I’m actively working on Algorithms</li>
@@ -28,11 +30,21 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vermashaurya&theme=merko)  <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vermashaurya&theme=merko) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vermashaurya&theme=merko) <br/>
 
-# 🔝 Top Contributed Repositories:
-![Top Contributed Repositories](https://api.githubtrends.io/user/svg/vermashaurya/repos?time_range=one_year&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9ab0115-39ab-47b2-8aad-6371ec7e6be2/d53evqr-10649a4b-f1bd-4ede-b1a6-2c2178dbdb80.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5YWIwMTE1LTM5YWItNDdiMi04YWFkLTYzNzFlYzdlNmJlMlwvZDUzZXZxci0xMDY0OWE0Yi1mMWJkLTRlZGUtYjFhNi0yYzIxNzhkYmRiODAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wtyS17Z2ocqmJeUgj_fUXJ93nMvC-ZqWxcFB25LakdY)
+<h1>🔝 Top Contributed Repositories:</h1>
+<p>
+  <img src="https://api.githubtrends.io/user/svg/vermashaurya/repos?time_range=one_year&theme=dark">
+</p>
+
+<!-- <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400px" height="275px"> -->
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QpXG2TEd8wUA8/giphy.gif" height="200px" width="200px">
+    </p>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
