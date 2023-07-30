@@ -44,10 +44,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/QpXG2TEd8wUA8/giphy.gif" height="200px" width="200px">
     </p>
+    -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
