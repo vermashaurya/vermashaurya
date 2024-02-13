@@ -7,7 +7,7 @@
 <ul>
   <li>🔭 I’m actively working on Algorithms</li>
   <li>🤝 I’m looking for help with Software Engineering Internships</li>
-  <li>🌱 I’m currently learning JS</li>
+  <li>🌱 I’m currently learning Java</li>
   <li>⚡ Fun fact, I'm a technology enthusiast. I'll get excited about any tech stack.</li>
 </ul>
 
