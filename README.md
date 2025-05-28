@@ -6,9 +6,9 @@
 
 <ul>
   <li>🔭 I’m actively working on Algorithms</li>
-  <li>🤝 I’m looking for help with Software Engineering Internships</li>
+  <li>🤝 I’m looking to gain substantial knowledge in the field of Software Engineering.</li>
   <li>🌱 I’m currently learning Java</li>
-  <li>⚡ Fun fact, I'm a technology enthusiast. I'll get excited about any tech stack.</li>
+  <li>⚡ Fun fact, I'm a technology enthusiast. I get excited about any and all tech stacks.</li>
 </ul>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.figma.com/proto/CPixLBV9ZfTlUVumLitSbO/Portfolio)
