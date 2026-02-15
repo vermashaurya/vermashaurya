@@ -5,10 +5,10 @@
 </p>
 
 <ul>
-  <li>🔭 I’m actively working on Algorithms</li>
-  <li>🤝 I’m looking to gain substantial knowledge in the field of Software Engineering.</li>
-  <li>🌱 I’m currently learning Java</li>
-  <li>⚡ Fun fact, I'm a technology enthusiast. I get excited about any and all tech stacks.</li>
+  <li>🔭 I’m actively diversifying my knowledge base on new tech stacks</li>
+  <li>🤝 Currently a senior developer @Capgemini</li>
+  <li>🌱 Working towards building a legacy</li>
+  <li>⚡ Fun fact, I'm a technology enthusiast, HMU regarding interesting tech finds</li>
 </ul>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.figma.com/proto/CPixLBV9ZfTlUVumLitSbO/Portfolio)
@@ -24,23 +24,23 @@
 <!-- https://www.coursera.org/user/e81641ab58b801bd93fe743cd00a9443 /-->
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-EB8B30.svg?style=for-the-badge&logo=eclipse&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/AdobePremierePro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-DC143C?style=for-the-badge&logo=angular&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-EB8B30.svg?style=for-the-badge&logo=eclipse&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-235A97?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/AdobePremierePro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vermashaurya&theme=merko)  <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vermashaurya&theme=merko) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vermashaurya&theme=merko) <br/>
 
 
-<h1>🔝 Top Contributed Repositories:</h1>
+<!-- <h1>🔝 Top Contributed Repositories:</h1>
 <p>
   <img src="https://api.githubtrends.io/user/svg/vermashaurya/repos?time_range=one_year&theme=dark">
   &nbsp &nbsp (Hover over if stat cards don't load)
-</p>
+</p> -->
 
-<!-- <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400px" height="275px"> -->
-<p>
+<!-- <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400px" height="275px">  -->
+<!-- <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
+</p> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermashaurya&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <!--
 <p align="center">
