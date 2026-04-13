@@ -5,7 +5,7 @@
 </p>
 
 <ul>
-  <li>🔭 I’m actively diversifying my knowledge base on new tech stacks</li>
+  <li>🔭 Actively diversifying my knowledge base on new tech stacks</li>
   <li>🤝 Currently a senior developer @Capgemini</li>
   <li>🌱 Working towards building a legacy</li>
   <li>⚡ Fun fact, I'm a technology enthusiast, HMU regarding interesting tech finds</li>
