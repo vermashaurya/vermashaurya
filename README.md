@@ -16,7 +16,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=shauryaverma.tech@gmail.com)
 [![Linktree](https://img.shields.io/badge/linktree-5BBA4A?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/surru)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vermashaurya/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/surru._._/)
+[![Instagram](https://img.shields.io/badge/Insta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/surru._._/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vermashaurya) 
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D1.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/e81641ab58b801bd93fe743cd00a9443)
 <!-- [![GoogleDev](https://img.shields.io/badge/GoogleDev-%30885C88.svg?style=for-the-badge&logo=Google&logoColor=black)](https://g.dev/vermashaurya) -->
