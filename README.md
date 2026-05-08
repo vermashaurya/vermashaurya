@@ -43,9 +43,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vermashaurya&theme=merko)  <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vermashaurya&theme=merko) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vermashaurya&theme=merko) <br/>
-![](https://spotify-recently-played-readme.vercel.app/api?user=dfwfk3j0zc6hok4ouacsr53tf&count={count})
+![](https://spotify-recently-played-readme.vercel.app/api?user=dfwfk3j0zc6hok4ouacsr53tf&count={2})
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfwfk3j0zc6hok4ouacsr53tf&count={2}" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfwfk3j0zc6hok4ouacsr53tf&count=5" alt="Spotify recently played"  />
 </div>
 
 <!-- <h1>🔝 Top Contributed Repositories:</h1>
