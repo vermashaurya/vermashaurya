@@ -25,11 +25,7 @@
 <!-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/verma_shaurya201?hr_r=1) -->
 <!-- https://www.coursera.org/user/e81641ab58b801bd93fe743cd00a9443 /-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vermashaurya/vermashaurya/blob/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vermashaurya/vermashaurya/blob/main/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/vermashaurya/vermashaurya/blob/main/dist/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/vermashaurya/vermashaurya/snake-output/snake.svg" alt="Snake animation" />
 
 ---
 
