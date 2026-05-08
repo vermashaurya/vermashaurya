@@ -18,7 +18,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vermashaurya/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-EDC9AF?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/vermashaurya)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vermashaurya)
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D1.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/e81641ab58b801bd93fe743cd00a9443)
+<!-- [![Coursera](https://img.shields.io/badge/Coursera-%230056D1.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/e81641ab58b801bd93fe743cd00a9443) -->
 <!-- [![Instagram](https://img.shields.io/badge/Insta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/surru._._/) -->
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vermashaurya) -->
 <!-- [![GoogleDev](https://img.shields.io/badge/GoogleDev-%30885C88.svg?style=for-the-badge&logo=Google&logoColor=black)](https://g.dev/vermashaurya) -->
